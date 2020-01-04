@@ -1,10 +1,10 @@
 # Site settings
-title: City of Stars
-SEOTitle: 俞航翔的博客 | City of Stars
+title: City of Codes
+SEOTitle: BoYa的博客 | City of Codes
 header-img: img/post-bg-desk.jpg
 email: masteryhx@gmail.com
 description: "If you have the opportunity to understand your life in advance, knowing that youth is only these days, I wonder if you will care about things that the world wants you to care about."
-keyword: "masteryhx,Hangxiang Yu,俞航翔,Java,Flink"
+keyword: "BoYa,masteryhx,Hangxiang Yu,俞航翔,Java,Flink"
 url: "https://masteryhx.github.io"          
 baseurl: ""
 github_repo: "https://github.com/masteryhx/masteryhx.github.io.git"
@@ -28,7 +28,7 @@ github_username:    masteryhx
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-permalink: pretty
+# permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -98,4 +98,4 @@ friends: [
     }
 ]
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
